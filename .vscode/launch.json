@@ -1,0 +1,19 @@
+// {
+//     "version": "0.2.0",
+//     "configurations": [
+//     {
+//         "name": "Python: Streamlit subpage1",
+//         "type": "python",
+//         "request": "launch",
+//         "module": "streamlit",
+//         // "program": "${workspaceFolder}/DLBLM/main.py",
+//         "args": ["run", "${workspaceFolder}/MyChat/app.py"],
+//         "console": "integratedTerminal",
+//         "env": {
+//             "PYTHONUNBUFFERED": "1"
+//         }
+//     }
+//     ]
+// }
+// D:\OneDrive\human\port-folio\dailycoding\DLBLM\pages\app03_연습하기.py
+// MyChat\app.py
